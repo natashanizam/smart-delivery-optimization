@@ -1,0 +1,21 @@
+capacity 10
+items 5
+Laptop 3 1000 0
+Rice 10 200 1
+Phone 2 700 0
+Oil 3 300 1
+Wheat 2 300 1
+cities 5
+Warehouse
+City A
+City B
+City C
+City D
+edges 7
+0 1 2
+0 3 6
+1 2 3
+1 3 8
+1 4 5
+2 4 7
+3 4 9
